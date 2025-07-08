@@ -1,2 +1,2 @@
-# meu-projeto
-projeto fullstack
+# my-project
+fullstack project

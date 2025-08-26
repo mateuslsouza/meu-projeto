@@ -1,5 +1,11 @@
-function Home(){
-    return <h1>clara, eu amo você. Se você me ama, dá uma risadinha! Show</h1>
+function Home() {
+  return <h1></h1>;
 }
+
+function teste() {
+  console.log("teste");
+}
+
+teste();
 
 export default Home;

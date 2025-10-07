@@ -1,7 +1,7 @@
 {
   "name": "meu-projeto",
   "version": "1.0.0",
-  "description": "projeto para pratica de uma nova stack",
+  "description": "fullstack",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
